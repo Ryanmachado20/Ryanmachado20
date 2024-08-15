@@ -1,16 +1,13 @@
-## Hi there 👋
+bem vindo ao meu perfil
 
-<!--
-**Ryanmachado20/Ryanmachado20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ryan machado**
 
-Here are some ideas to get you started:
+estou estudando na [alura](https://cursos.alura.com.br/loginForm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+sou de Astorga-pr 1c adolpho,na escol do literario vou escolher exatas,
+
+gosto de jogar um futebol com os amigos,beach tenis,futsal.
+
+###vocẽ pode entrar em contato comigo em ryan.machado20@escola.pr.gov.br
+
+![](https://media1.tenor.com/m/PKKCAakpBZIAAAAC/neyney-neymar.gif)
