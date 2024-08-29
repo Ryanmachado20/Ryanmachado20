@@ -6,7 +6,9 @@ estou estudando na [alura](https://cursos.alura.com.br/loginForm)
 
 sou de Astorga-pr 1c adolpho,na escol do literario vou escolher exatas,
 
-gosto de jogar um futebol com os amigos,beach tenis,futsal.
+gosto de jogar um futebol com os amigos 
+
+quero ser jogador de futebol profissional 
 
 ###vocẽ pode entrar em contato comigo em ryan.machado20@escola.pr.gov.br
 
